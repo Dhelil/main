@@ -19,3 +19,5 @@ ggggggggggg
 ## Un titre 2
 
 ### Un titre 3
+
+** Texte en gras **
