@@ -54,3 +54,9 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+- George Washington
+
+* John Adams
+
+- Thomas Jefferson
