@@ -20,4 +20,4 @@ ggggggggggg
 
 ### Un titre 3
 
-\*\* Texte en gras
+**Texte en gras**
